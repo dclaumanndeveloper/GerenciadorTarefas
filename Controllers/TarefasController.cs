@@ -105,7 +105,7 @@ namespace GerenciadorTarefas.Controllers
             }
 
             _tarefaService.Deletar(id);
-            return View("Index");
+            return RedirectToAction("Index");
         }
     }
 }
