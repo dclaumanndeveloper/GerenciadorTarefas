@@ -224,3 +224,4 @@
 /home/oem/Documentos/TesteAtak/GerenciadorTarefas/obj/Debug/net8.0/GerenciadorTarefas.csproj.AssemblyReference.cache
 /home/oem/Documentos/TesteAtak/GerenciadorTarefas/obj/Debug/net8.0/GerenciadorTarefas.csproj.CopyComplete
 /home/oem/Documentos/TesteAtak/GerenciadorTarefas/bin/Debug/net8.0/tarefas.json
+/home/oem/Documentos/TesteAtak/GerenciadorTarefas/obj/Debug/net8.0/GerenciadorTarefas.sourcelink.json
